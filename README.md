@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there I’m DASHAM, a passionate software developer based in NEW DELHI,INDIA. Welcome to my GitHub profile! Here’s a brief overview of what you’ll find here👋
+
+🌱 I’m currently learning node.js/react.
+💡 I love solving complex problems and building cool stuff.
+🎯 My goal: Contribute to open-source projects and collaborate with other developers.
+
 
 <!--
 **dasham-ui/dasham-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
